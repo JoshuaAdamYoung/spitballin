@@ -1,0 +1,9 @@
+initializing app v.001
+
+(((>)))
+meteor create spit && cd spit && meteor add iron:router && meteor add dburles:collection-helpers && meteor add aldeed:collection2 && meteor add accounts-base accounts-password && meteor add alanning:roles && meteor add twbs:bootstrap && meteor add fortawesome:fontawesome && meteor add yogiben:admin
+(((/>)))
+
+(((/)))
+http://localhost:3000/admin
+(((//)))
